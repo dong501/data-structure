@@ -1,3 +1,0 @@
-vscode에서 
-
-cd "C:\Users\user\Downloads\emergency_queue"
